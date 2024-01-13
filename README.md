@@ -4,8 +4,8 @@ This repository contains my assignments for Skill Lab MERN Stack Course.
 
 ## Table of Contents
 
-1. [CSS Product Card](#css-product-card)
-2. [JavaScript Calculator](#javascript-calculator)
+1. [CSS Product Card](#assignment-1-css-product-card)
+2. [JavaScript Calculator](#assignment-2-javascript-calculator)
 
 ### Assignment 1: CSS Product Card
 
@@ -24,9 +24,9 @@ The JavaScript Calculator assignment is a simple calculator application built us
 To get started with the assignments, follow these steps:
 
 1. Clone the repository to your local machine.
-   ```
+   ```bash
    git clone https://github.com/advithialva/Skill-Lab.git
-   ```
+
 2. Navigate to the desired assignment folder.
 3. Open the `index.html` file in your web browser.
 
