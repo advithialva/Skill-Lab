@@ -1,6 +1,6 @@
 # Skill Lab
 
-This repository contains my assignments for Skill Lab MERN Stack Course.
+This repository contains my assignments for Skill Lab Full Stack Development Course.
 
 ## Table of Contents
 
