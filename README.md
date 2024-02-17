@@ -6,7 +6,7 @@ This repository contains my assignments for Skill Lab Full Stack Development Cou
 
 1. [CSS Product Card](#assignment-1-css-product-card)
 2. [JavaScript Calculator](#assignment-2-javascript-calculator)
-3. [Shopping Cart UI](#shopping-cart-ui)
+3. [Shopping Cart UI](#assignment-3-shopping-cart-ui)
 
 ### Assignment 1: CSS Product Card
 
