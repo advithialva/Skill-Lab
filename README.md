@@ -48,19 +48,19 @@ To get started with the assignment 3, follow these steps:
    ```
    git clone https://github.com/advithialva/SkillLab.git
    ```
- 2.Navigate to the project directory:
+2. Navigate to the project directory:
    ```
    cd Skill-Lab/shopping-site-ui
    ```
-3.Install dependencies:
+3. Install dependencies:
    ```
    npm install
    ```
-4.Start the development server:
+4. Start the development server:
    ```
    npm start
    ```
-5.Open http://localhost:3000 to view the app in your browser.
+5. Open http://localhost:3000 to view the app in your browser.
 
 ## Contributing
 
