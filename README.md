@@ -7,6 +7,7 @@ This repository contains my assignments for Skill Lab Full Stack Development Cou
 1. [CSS Product Card](#assignment-1-css-product-card)
 2. [JavaScript Calculator](#assignment-2-javascript-calculator)
 3. [Shopping Cart UI](#assignment-3-shopping-cart-ui)
+4. [Backend Blog](#assignment-4-backend-blog)
 
 ### Assignment 1: CSS Product Card
 
@@ -30,6 +31,12 @@ The Shopping Site UI assignment is a user interface for a shopping site built us
   - ...
   - `product-8.jpg`
 
+### Assignment 4: Backend Blog
+
+The Backend Blog assignment is a backend project built using JavaScript, Node.js, Express.js, and MongoDB. It involves creating two schemas for Author and Blog, implementing CRUD operations (Create, Read, Update, Delete) using POST and GET APIs, and storing data in MongoDB.
+- Folders:
+    - `Backend`: Contains the backend server files, including `server.js` and other necessary files.
+    - `Frontend`: Contains the frontend application files, including `app.js`, `app.css`, `index.js`, `index.css` and other necessary files.
 
 ## Installation
 
