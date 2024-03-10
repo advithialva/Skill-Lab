@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.app-header {
+  text-align: center;
+  background-color: #d1c08f;
+  padding: 20px;
+  color: rgb(207, 192, 154);
+}
+
+h2 {
+  font-family: Satisfy,sans-serif;
+  font-size: 3rem;
+  color: #63400b;
+}
+
+.routes {
+ text-align: center;
+}
+
