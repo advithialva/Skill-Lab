@@ -1,4 +1,4 @@
-# Skill Lab
+# Skill Lab(3rd Sem)
 
 This repository contains the assignments for Skill Lab Full Stack Development Course, focusing on the MERN stack, undertaken during my 3rd semester.
 
