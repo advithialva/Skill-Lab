@@ -44,7 +44,7 @@ To get started with the assignments, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/advithialva/Skill-Lab.git
+   git clone https://github.com/advithialva/Skill-Lab-3-sem.git
 
 2. Navigate to the desired assignment folder.
 3. Open the `index.html` file in your web browser.
@@ -53,7 +53,7 @@ To get started with the assignment 3, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/advithialva/SkillLab.git
+   git clone https://github.com/advithialva/Skill-Lab-3-sem.git
    ```
 2. Navigate to the project directory:
    ```
